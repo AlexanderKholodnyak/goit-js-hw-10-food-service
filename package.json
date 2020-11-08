@@ -1,0 +1,32 @@
+{
+  "name": "goit-js-hw-10-food-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexanderKholodnyak/goit-js-hw-10-food-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexanderKholodnyak/goit-js-hw-10-food-service/issues"
+  },
+  "homepage": "https://github.com/AlexanderKholodnyak/goit-js-hw-10-food-service#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.3.0",
+    "shortid": "^2.2.16"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.1",
+    "@babel/core": "^7.12.3",
+    "@babel/preset-env": "^7.12.1",
+    "parcel-bundler": "^1.12.4"
+  }
+}
