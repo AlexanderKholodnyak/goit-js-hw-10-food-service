@@ -1,3 +1,4 @@
-import qwe from './js/validate';
+import './styles.css';
 
-console.log(qwe);
+import * as markup from './js/markup.js';
+import * as theme from './js/theme.js';
